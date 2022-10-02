@@ -5,7 +5,7 @@
 ##
 # Mode-Dark
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94022200/189770599-3fd2fb29-acdb-4516-aa29-1b7ddaf55d01.png" width="900px" />
+<img src="https://user-images.githubusercontent.com/94022200/193433279-69b1c30a-c656-4b4e-9c86-3c21f2fd3f76.png" width="900px" />
 </div
 
   ##
